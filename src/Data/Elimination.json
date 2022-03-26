@@ -1,0 +1,116 @@
+[
+	{
+		"roundof16A": [
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			},
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			},
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			},
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			}
+		],
+		"roundof16B": [
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			},
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			},
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			},
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			}
+		],
+		"roundof8A": [
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			},
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			}
+		],
+		"roundof8B": [
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			},
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			}
+		],
+		"semifinalA": [
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			}
+		],
+		"semifinalB": [
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			}
+		],
+		"thirdplace": [
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "2 Noviembre - 08:00hrs - Estadio"
+			}
+		],
+		"final": [
+			{
+				"team1": "",
+				"team2": "",
+				"score": ["0", "0"],
+				"info": "18 Diciembre - 12:00hrs - Al Bayt"
+			}
+		]
+	}
+]

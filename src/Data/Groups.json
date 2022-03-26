@@ -1,0 +1,250 @@
+[
+	{
+		"name": "A",
+		"teams": [
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"positions": [
+			{ "pos": "A1" },
+			{ "pos": "A2" },
+			{ "pos": "A3" },
+			{ "pos": "A4" }
+		],
+		"info": [
+			{ "date": "21 Noviembre - 07:00hrs - Al Bayt" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+		],
+		"scores": [
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] }
+		]
+	},
+	{
+		"name": "B",
+		"teams": [
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"positions": [
+			{ "pos": "B1" },
+			{ "pos": "B2" },
+			{ "pos": "B3" },
+			{ "pos": "B4" }
+		],
+		"info": [
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+		],
+		"scores": [
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] }
+		]
+	},
+	{
+		"name": "C",
+		"teams": [
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"positions": [
+			{ "pos": "C1" },
+			{ "pos": "C2" },
+			{ "pos": "C3" },
+			{ "pos": "C4" }
+		],
+		"info": [
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+		],
+		"scores": [
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] }
+		]
+	},
+	{
+		"name": "D",
+		"teams": [
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"positions": [
+			{ "pos": "D1" },
+			{ "pos": "D2" },
+			{ "pos": "D3" },
+			{ "pos": "D4" }
+		],
+		"info": [
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+		],
+		"scores": [
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] }
+		]
+	},
+	{
+		"name": "E",
+		"teams": [
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"positions": [
+			{ "pos": "E1" },
+			{ "pos": "E2" },
+			{ "pos": "E3" },
+			{ "pos": "E4" }
+		],
+		"info": [
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+		],
+		"scores": [
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] }
+		]
+	},
+	{
+		"name": "F",
+		"teams": [
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"positions": [
+			{ "pos": "F1" },
+			{ "pos": "F2" },
+			{ "pos": "F3" },
+			{ "pos": "F4" }
+		],
+		"info": [
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+		],
+		"scores": [
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] }
+		]
+	},
+	{
+		"name": "G",
+		"teams": [
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"positions": [
+			{ "pos": "G1" },
+			{ "pos": "G2" },
+			{ "pos": "G3" },
+			{ "pos": "G4" }
+		],
+		"info": [
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+		],
+		"scores": [
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] }
+		]
+	},
+	{
+		"name": "H",
+		"teams": [
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"positions": [
+			{ "pos": "H1" },
+			{ "pos": "H2" },
+			{ "pos": "H3" },
+			{ "pos": "H4" }
+		],
+		"info": [
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
+			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+		],
+		"scores": [
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] },
+			{ "score": ["0", "0"] }
+		]
+	}
+]
