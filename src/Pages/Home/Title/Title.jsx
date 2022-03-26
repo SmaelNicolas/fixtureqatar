@@ -8,7 +8,7 @@ function Title() {
 		<>
 			<StyledH1>World Cup Qatar 2022 Fixture</StyledH1>
 			<TitleContainer>
-				<Img1 src={imageLogo2} />;
+				<Img1 src={imageLogo2} />
 			</TitleContainer>
 		</>
 	);
