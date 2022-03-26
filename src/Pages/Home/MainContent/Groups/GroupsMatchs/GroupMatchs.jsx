@@ -33,8 +33,8 @@ function GroupMatchs({ scores, info, team1, team2, team3, team4 }) {
 				<MatchFormat
 					score={scores[3].score}
 					info={info[3].date}
-					team1={team2}
-					team2={team4}
+					team1={team4}
+					team2={team2}
 				/>
 			</Match4>
 			<Match5>

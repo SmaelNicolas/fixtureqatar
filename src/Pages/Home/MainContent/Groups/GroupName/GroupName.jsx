@@ -23,7 +23,7 @@ const GroupNameStyled = styled.div`
 
 const TextContainer = styled.div`
 	text-align: center;
-	color: var(--clrs--Garnet);
+	color: var(--clrs--blue);
 	font-family: var(--QatarFont);
 	font-size: var(--fs--big);
 `;
