@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/fixtureqatar/static/css/main.ab1ab64a.css",
-    "main.js": "/fixtureqatar/static/js/main.fc2fe9cd.js",
+    "main.js": "/fixtureqatar/static/js/main.9490a9ac.js",
     "static/media/Qatar2022Arabic-Heavy.ttf": "/fixtureqatar/static/media/Qatar2022Arabic-Heavy.92e6394809e6024e9ddc.ttf",
     "static/media/Qatar2022Arabic-Bold.ttf": "/fixtureqatar/static/media/Qatar2022Arabic-Bold.6822079ad6ad4f0dbab2.ttf",
     "static/media/logo.svg": "/fixtureqatar/static/media/logo.ea8e6fc2a8f089a59c2afc9035ca669b.svg",
     "static/media/arrow.svg": "/fixtureqatar/static/media/arrow.a6cd484e65398b589f25e70d3802d098.svg",
     "index.html": "/fixtureqatar/index.html",
     "main.ab1ab64a.css.map": "/fixtureqatar/static/css/main.ab1ab64a.css.map",
-    "main.fc2fe9cd.js.map": "/fixtureqatar/static/js/main.fc2fe9cd.js.map"
+    "main.9490a9ac.js.map": "/fixtureqatar/static/js/main.9490a9ac.js.map"
   },
   "entrypoints": [
     "static/css/main.ab1ab64a.css",
-    "static/js/main.fc2fe9cd.js"
+    "static/js/main.9490a9ac.js"
   ]
 }
