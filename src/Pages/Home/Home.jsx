@@ -24,10 +24,12 @@ export default Home;
 
 const HomeContainer = styled.div`
 	width: 100%;
+	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: flex-start;
 	gap: 10px;
 	padding-bottom: 40px;
+	position: relative;
 `;
