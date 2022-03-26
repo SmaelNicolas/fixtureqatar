@@ -6,9 +6,12 @@ export const ButtonSelection = styled.button`
 	cursor: pointer;
 	border-radius: 3px;
 	border: none;
-	border: 1px solid #f5f5f5;
+	border: 1px solid var(--clrs--Garnet);
 	box-shadow: 0 1px 2px 0 rgb(0 0 0 / 12%);
 	transition: 0.2s linear;
+	color: var(--clrs--Garnet);
+	font-weight: 700;
+	background-color: #f5f5f5;
 
 	&:hover {
 		transition: 0.2s linear;
@@ -17,7 +20,7 @@ export const ButtonSelection = styled.button`
 `;
 
 export const Team = styled.div`
-	font-weight: 300;
+	font-weight: 600;
 	letter-spacing: 1px;
 	color: var(--clrs--Garnet);
 `;

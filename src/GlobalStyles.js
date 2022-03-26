@@ -30,7 +30,7 @@ export const GlobalStyle = createGlobalStyle`
         --clrs--lblue : #49BCE3;
         --clrs--blue : #1077C3;
         --clrs--yellow : #FEC310;
-        --clrs--Garnet : #56042C;
+        --clrs--Garnet : #9a1032;
 
 
      }
