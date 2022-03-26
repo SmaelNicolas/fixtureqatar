@@ -4,7 +4,7 @@ import { ButtonSelection } from "../../../../CommonStyledComponents";
 function ButtonGroups({ toggleShow }) {
 	return (
 		<ButtonSelection onClick={() => toggleShow(true)}>
-			Fase de grupos
+			Fase de Grupos
 		</ButtonSelection>
 	);
 }

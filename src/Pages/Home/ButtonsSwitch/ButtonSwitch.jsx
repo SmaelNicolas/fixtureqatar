@@ -22,4 +22,5 @@ const ButtonsContainer = styled.div`
 	align-items: center;
 	flex-wrap: wrap;
 	gap: 5px;
+	z-index: 3;
 `;
