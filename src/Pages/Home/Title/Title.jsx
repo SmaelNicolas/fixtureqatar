@@ -6,7 +6,7 @@ import imageLogo2 from "../../../Assets/Images/logo.svg";
 function Title() {
 	return (
 		<>
-			<StyledH1>World Cup Qatar 2022 Fixture</StyledH1>;
+			<StyledH1>World Cup Qatar 2022 Fixture</StyledH1>
 			<TitleContainer>
 				<Img1 src={imageLogo2} />;
 			</TitleContainer>
