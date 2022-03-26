@@ -15,11 +15,11 @@
 		],
 		"info": [
 			{ "date": "21 Noviembre - 07:00hrs - Al Bayt" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -45,12 +45,12 @@
 			{ "pos": "B4" }
 		],
 		"info": [
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -76,12 +76,12 @@
 			{ "pos": "C4" }
 		],
 		"info": [
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -107,12 +107,12 @@
 			{ "pos": "D4" }
 		],
 		"info": [
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -138,12 +138,12 @@
 			{ "pos": "E4" }
 		],
 		"info": [
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -169,12 +169,12 @@
 			{ "pos": "F4" }
 		],
 		"info": [
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -200,12 +200,12 @@
 			{ "pos": "G4" }
 		],
 		"info": [
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -231,12 +231,12 @@
 			{ "pos": "H4" }
 		],
 		"info": [
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" },
-			{ "date": "2 Noviembre - 08:00hrs - Estadio" }
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" },
+			{ "date": "Dia - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
