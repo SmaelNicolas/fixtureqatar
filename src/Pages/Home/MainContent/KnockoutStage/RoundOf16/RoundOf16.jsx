@@ -1,6 +1,6 @@
-import styled from "styled-components";
 import MatchFormat from "../../Groups/GroupsMatchs/MatchFormat/MatchFormat";
 import data from "../../../../../Data/Elimination.json";
+import { MatchContainer } from "../../../../../CommonStyledComponents";
 
 function RoundOf16() {
 	return (
@@ -33,14 +33,3 @@ function RoundOf16() {
 }
 
 export default RoundOf16;
-
-const MatchContainer = styled.div`
-	width: 100%;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	gap: 5px;
-	text-align: center;
-	box-shadow: 0 1px 3px 0 rgb(0 0 0 / 12%);
-`;

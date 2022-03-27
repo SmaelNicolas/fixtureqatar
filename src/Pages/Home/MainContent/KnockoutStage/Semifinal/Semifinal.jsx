@@ -1,6 +1,6 @@
-import styled from "styled-components";
 import MatchFormat from "../../Groups/GroupsMatchs/MatchFormat/MatchFormat";
 import data from "../../../../../Data/Elimination.json";
+import { MatchContainer } from "../../../../../CommonStyledComponents";
 
 function Semifinal() {
 	return (
@@ -33,12 +33,3 @@ function Semifinal() {
 }
 
 export default Semifinal;
-const MatchContainer = styled.div`
-	width: 100%;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	gap: 5px;
-	text-align: center;
-`;
