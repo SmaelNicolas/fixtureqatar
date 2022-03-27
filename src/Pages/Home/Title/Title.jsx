@@ -18,13 +18,13 @@ export default Title;
 
 const TitleContainer = styled.div`
 	width: 98%;
-	height: 98%;
+	height: 98vh;
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
 	position: absolute;
 	z-index: 2;
-	opacity: 0.18;
+	opacity: 0.09;
 `;
 
 const StyledH1 = styled.h1`
