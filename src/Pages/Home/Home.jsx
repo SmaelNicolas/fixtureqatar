@@ -27,8 +27,8 @@ const HomeContainer = styled.div`
 	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
-	align-items: flex-start;
+	justify-content: flex-start;
+	align-items: center;
 	gap: 10px;
 	padding-bottom: 40px;
 	position: relative;
