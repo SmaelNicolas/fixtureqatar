@@ -1,4 +1,5 @@
-import React from "react";
+import styled from "styled-components";
+
 import { Swiper, SwiperSlide } from "swiper/react";
 import { FreeMode, Pagination } from "swiper";
 
@@ -7,17 +8,18 @@ import "swiper/css";
 import "swiper/css/free-mode";
 import "swiper/css/pagination";
 
-import styled from "styled-components";
 import GroupName from "./GroupName/GroupName";
 import GroupPositions from "./GroupPositions/GroupPositions";
 import GroupMatchs from "./GroupsMatchs/GroupMatchs";
 import data from "../../../../Data/Groups.json";
+import { Fade } from "../../../../CommonStyledComponents";
 
 function Groups() {
 	return (
 		<>
 			<Container>
 				{data.map((group, index) => {
+					console.log(group.teams.names[0].name);
 					return (
 						<GroupsContainer key={index}>
 							<GroupName groupName={group.name} />
@@ -25,10 +27,14 @@ function Groups() {
 							<GroupMatchs
 								scores={group.scores}
 								info={group.info}
-								team1={group.teams[0].name}
-								team2={group.teams[1].name}
-								team3={group.teams[2].name}
-								team4={group.teams[3].name}
+								team1={group.teams.names[0].name}
+								team2={group.teams.names[1].name}
+								team3={group.teams.names[2].name}
+								team4={group.teams.names[3].name}
+								flag1={group.teams.flags[0].name}
+								flag2={group.teams.flags[1].name}
+								flag3={group.teams.flags[2].name}
+								flag4={group.teams.flags[3].name}
 							/>
 						</GroupsContainer>
 					);
@@ -57,10 +63,14 @@ function Groups() {
 									<GroupMatchs
 										scores={group.scores}
 										info={group.info}
-										team1={group.teams[0].name}
-										team2={group.teams[1].name}
-										team3={group.teams[2].name}
-										team4={group.teams[3].name}
+										team1={group.teams.names[0].name}
+										team2={group.teams.names[1].name}
+										team3={group.teams.names[2].name}
+										team4={group.teams.names[3].name}
+										flag1={group.teams.flags[0].name}
+										flag2={group.teams.flags[1].name}
+										flag3={group.teams.flags[2].name}
+										flag4={group.teams.flags[3].name}
 									/>
 								</GroupsContainer>
 							</SwiperSlide>
@@ -82,6 +92,8 @@ const Container = styled.div`
 	justify-content: center;
 	align-items: center;
 	gap: 55px;
+	animation: ${Fade} 0.5s forwards;
+
 	@media screen and (max-width: 500px) {
 		display: none;
 	}
@@ -115,6 +127,8 @@ const ContainerSwiper = styled.div`
 	display: none;
 	width: 98vw;
 	height: 350px;
+	animation: ${Fade} 0.5s forwards;
+
 	@media screen and (max-width: 500px) {
 		display: flex;
 	}

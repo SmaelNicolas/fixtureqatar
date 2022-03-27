@@ -1,6 +1,6 @@
 import { useState } from "react";
 import styled from "styled-components";
-import { TitleSection } from "../../../../CommonStyledComponents";
+import { TitleSection, Fade } from "../../../../CommonStyledComponents";
 import RoundOf16 from "./RoundOf16/RoundOf16";
 import RoundOf8 from "./RoundOf8/RoundOf8";
 import Semifinal from "./Semifinal/Semifinal";
@@ -9,7 +9,7 @@ import Final from "./Final/Final";
 import arrow from "../../../../Assets/Icons/arrow.svg";
 
 function KnockoutStage() {
-	const [show16, setShow16] = useState(false);
+	const [show16, setShow16] = useState(true);
 	const [show8, setShow8] = useState(false);
 	const [semifinal, setSemifinal] = useState(false);
 	const [final, setFinal] = useState(false);
@@ -66,6 +66,7 @@ const KnockoutContainer = styled.div`
 	justify-content: center;
 	align-items: center;
 	gap: 15px;
+	animation: ${Fade} 0.5s forwards;
 `;
 
 const RoundsContainer = styled.div`
