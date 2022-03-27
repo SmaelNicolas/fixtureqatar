@@ -26,4 +26,5 @@ const TextContainer = styled.div`
 	color: var(--clrs--blue);
 	font-family: var(--QatarFont);
 	font-size: var(--fs--big);
+	letter-spacing: 0.8px;
 `;
