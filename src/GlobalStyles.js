@@ -49,5 +49,14 @@ export const GlobalStyle = createGlobalStyle`
     justify-content: center;
     align-items: center;
     background-color: #e7e7e7;
+    cursor: default;
+    &::-webkit-scrollbar {
+        width: 2px;
+        background-color: transparent ;
+    }
+    &::-webkit-scrollbar-thumb {
+        background:var(--clrs--Garnet); 
+        
+}
     }
 `;
