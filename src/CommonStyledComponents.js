@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, { keyframes } from "styled-components";
 
 export const ButtonSelection = styled.button`
 	width: 150px;
@@ -38,4 +38,25 @@ export const TitleSection = styled.div`
 
 export const Score = styled.div`
 	color: var(--clrs--blue);
+`;
+
+export const MatchContainer = styled.div`
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 5px;
+	text-align: center;
+	background-color: #00000010;
+	padding: 15px 0px;
+`;
+
+// KEYFRAMES
+
+export const Fade = keyframes`
+	
+    0% {opacity: 0};
+    100% {opacity: 1;}
+
 `;
