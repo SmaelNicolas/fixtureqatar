@@ -1,12 +1,20 @@
 [
 	{
 		"name": "A",
-		"teams": [
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" }
-		],
+		"teams": {
+			"names": [
+				{ "name": "Qatar" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			],
+			"flags": [
+				{ "name": "qa" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			]
+		},
 		"positions": [
 			{ "pos": "A1" },
 			{ "pos": "A2" },
@@ -32,12 +40,20 @@
 	},
 	{
 		"name": "B",
-		"teams": [
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" }
-		],
+		"teams": {
+			"names": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			],
+			"flags": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			]
+		},
 		"positions": [
 			{ "pos": "B1" },
 			{ "pos": "B2" },
@@ -63,12 +79,20 @@
 	},
 	{
 		"name": "C",
-		"teams": [
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" }
-		],
+		"teams": {
+			"names": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			],
+			"flags": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			]
+		},
 		"positions": [
 			{ "pos": "C1" },
 			{ "pos": "C2" },
@@ -94,12 +118,20 @@
 	},
 	{
 		"name": "D",
-		"teams": [
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" }
-		],
+		"teams": {
+			"names": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			],
+			"flags": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			]
+		},
 		"positions": [
 			{ "pos": "D1" },
 			{ "pos": "D2" },
@@ -125,12 +157,20 @@
 	},
 	{
 		"name": "E",
-		"teams": [
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" }
-		],
+		"teams": {
+			"names": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			],
+			"flags": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			]
+		},
 		"positions": [
 			{ "pos": "E1" },
 			{ "pos": "E2" },
@@ -156,12 +196,20 @@
 	},
 	{
 		"name": "F",
-		"teams": [
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" }
-		],
+		"teams": {
+			"names": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			],
+			"flags": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			]
+		},
 		"positions": [
 			{ "pos": "F1" },
 			{ "pos": "F2" },
@@ -187,12 +235,20 @@
 	},
 	{
 		"name": "G",
-		"teams": [
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" }
-		],
+		"teams": {
+			"names": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			],
+			"flags": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			]
+		},
 		"positions": [
 			{ "pos": "G1" },
 			{ "pos": "G2" },
@@ -218,12 +274,20 @@
 	},
 	{
 		"name": "H",
-		"teams": [
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" },
-			{ "name": "" }
-		],
+		"teams": {
+			"names": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			],
+			"flags": [
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" },
+				{ "name": "" }
+			]
+		},
 		"positions": [
 			{ "pos": "H1" },
 			{ "pos": "H2" },
