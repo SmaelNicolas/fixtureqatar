@@ -2,7 +2,18 @@ import React from "react";
 import styled from "styled-components";
 import MatchFormat from "./MatchFormat/MatchFormat";
 
-function GroupMatchs({ scores, info, team1, team2, team3, team4 }) {
+function GroupMatchs({
+	scores,
+	info,
+	team1,
+	team2,
+	team3,
+	team4,
+	flag1,
+	flag2,
+	flag3,
+	flag4,
+}) {
 	return (
 		<>
 			<Match1>
@@ -11,6 +22,8 @@ function GroupMatchs({ scores, info, team1, team2, team3, team4 }) {
 					info={info[0].date}
 					team1={team1}
 					team2={team2}
+					flag1={flag1}
+					flag2={flag2}
 				/>
 			</Match1>
 			<Match2>
@@ -19,6 +32,8 @@ function GroupMatchs({ scores, info, team1, team2, team3, team4 }) {
 					info={info[1].date}
 					team1={team3}
 					team2={team4}
+					flag1={flag3}
+					flag2={flag4}
 				/>
 			</Match2>
 			<Match3>
@@ -27,6 +42,8 @@ function GroupMatchs({ scores, info, team1, team2, team3, team4 }) {
 					info={info[2].date}
 					team1={team1}
 					team2={team3}
+					flag1={flag1}
+					flag2={flag3}
 				/>
 			</Match3>
 			<Match4>
@@ -35,6 +52,8 @@ function GroupMatchs({ scores, info, team1, team2, team3, team4 }) {
 					info={info[3].date}
 					team1={team4}
 					team2={team2}
+					flag1={flag4}
+					flag2={flag2}
 				/>
 			</Match4>
 			<Match5>
@@ -43,6 +62,8 @@ function GroupMatchs({ scores, info, team1, team2, team3, team4 }) {
 					info={info[4].date}
 					team1={team4}
 					team2={team1}
+					flag1={flag4}
+					flag2={flag1}
 				/>
 			</Match5>
 			<Match6>
@@ -51,6 +72,8 @@ function GroupMatchs({ scores, info, team1, team2, team3, team4 }) {
 					info={info[5].date}
 					team1={team2}
 					team2={team3}
+					flag1={flag2}
+					flag2={flag3}
 				/>
 			</Match6>
 		</>
