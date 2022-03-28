@@ -19,7 +19,6 @@ function Groups() {
 		<>
 			<Container>
 				{data.map((group, index) => {
-					console.log(group.teams.names[0].name);
 					return (
 						<GroupsContainer key={index}>
 							<GroupName groupName={group.name} />

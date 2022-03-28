@@ -21,6 +21,7 @@ export const GlobalStyle = createGlobalStyle`
         --QatarHeavyFont : 'QatarHeavy', sans-serif;
 
         --fs--bigger : clamp(2rem , 3vw + 1rem , 3.5rem);
+        --fs--cd : clamp(1.75rem , 2vw + 1rem , 2.5rem);
         --fs--small: 0.75rem;
         --fs--normal : 1rem;
         --fs--medium : 1.25rem

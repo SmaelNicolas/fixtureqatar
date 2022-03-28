@@ -3,6 +3,7 @@ import ButtonSwitch from "./ButtonsSwitch/ButtonSwitch";
 import MainContent from "./MainContent/MainContent";
 import Title from "./Title/Title";
 import styled from "styled-components";
+import Countdown from "../../Components/Countdown/Countdown";
 
 function Home() {
 	const [show, setShow] = useState(true);
@@ -14,6 +15,7 @@ function Home() {
 	return (
 		<HomeContainer>
 			<Title />
+			<Countdown />
 			<ButtonSwitch toggleShow={toggleShow} />
 			<MainContent show={show} />
 		</HomeContainer>
