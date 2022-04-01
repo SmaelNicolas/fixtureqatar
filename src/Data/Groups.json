@@ -4,15 +4,15 @@
 		"teams": {
 			"names": [
 				{ "name": "Qatar" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "Ecuador" },
+				{ "name": "Senegal" },
+				{ "name": "Paises Bajos" }
 			],
 			"flags": [
 				{ "name": "qa" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "ec" },
+				{ "name": "sn" },
+				{ "name": "nl" }
 			]
 		},
 		"positions": [
@@ -42,15 +42,15 @@
 		"name": "B",
 		"teams": {
 			"names": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "Inglaterra" },
+				{ "name": "Iran" },
+				{ "name": "Estados Unidos" },
+				{ "name": "Playoff 3" }
 			],
 			"flags": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
+				{ "name": "gb-eng" },
+				{ "name": "ir" },
+				{ "name": "us" },
 				{ "name": "" }
 			]
 		},
@@ -81,16 +81,16 @@
 		"name": "C",
 		"teams": {
 			"names": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "Argentina" },
+				{ "name": "Arabia Saudita" },
+				{ "name": "Mexico" },
+				{ "name": "Polonia" }
 			],
 			"flags": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "ar" },
+				{ "name": "sa" },
+				{ "name": "mx" },
+				{ "name": "pl" }
 			]
 		},
 		"positions": [
@@ -120,16 +120,16 @@
 		"name": "D",
 		"teams": {
 			"names": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "Francia" },
+				{ "name": "Playoff 1" },
+				{ "name": "Dinamarca" },
+				{ "name": "Tunez" }
 			],
 			"flags": [
+				{ "name": "fr" },
 				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "dk" },
+				{ "name": "tn" }
 			]
 		},
 		"positions": [
@@ -159,16 +159,16 @@
 		"name": "E",
 		"teams": {
 			"names": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "España" },
+				{ "name": "Playoff 2" },
+				{ "name": "Alemania" },
+				{ "name": "Japan" }
 			],
 			"flags": [
+				{ "name": "es" },
 				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "de" },
+				{ "name": "jp" }
 			]
 		},
 		"positions": [
@@ -198,16 +198,16 @@
 		"name": "F",
 		"teams": {
 			"names": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "Belgica" },
+				{ "name": "Canada" },
+				{ "name": "Marruecos" },
+				{ "name": "Croacia" }
 			],
 			"flags": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "be" },
+				{ "name": "ca" },
+				{ "name": "ma" },
+				{ "name": "hr" }
 			]
 		},
 		"positions": [
@@ -237,16 +237,16 @@
 		"name": "G",
 		"teams": {
 			"names": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "Brasil" },
+				{ "name": "Serbia" },
+				{ "name": "Suiza" },
+				{ "name": "Camerun" }
 			],
 			"flags": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "br" },
+				{ "name": "rs" },
+				{ "name": "ch" },
+				{ "name": "cm" }
 			]
 		},
 		"positions": [
@@ -276,16 +276,16 @@
 		"name": "H",
 		"teams": {
 			"names": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "Portugal" },
+				{ "name": "Ghana" },
+				{ "name": "Uruguay" },
+				{ "name": "Corea del Sur" }
 			],
 			"flags": [
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" },
-				{ "name": "" }
+				{ "name": "pt" },
+				{ "name": "gh" },
+				{ "name": "uy" },
+				{ "name": "kr" }
 			]
 		},
 		"positions": [
