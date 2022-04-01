@@ -100,7 +100,7 @@ const Container = styled.div`
 
 const GroupsContainer = styled.div`
 	width: 98%;
-	min-height: 300px;
+	min-height: 380px;
 	display: grid;
 	grid-template-areas:
 		"name positions"
