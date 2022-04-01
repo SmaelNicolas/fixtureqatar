@@ -22,12 +22,12 @@
 			{ "pos": "A4" }
 		],
 		"info": [
-			{ "date": "21 Noviembre - 07:00hrs - Al Bayt" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" }
+			{ "date": "21 de Noviembre - 07:00hrs - Al Bayt" },
+			{ "date": "21 de Noviembre - 10:00hrs - Al Zumama" },
+			{ "date": "25 de Noviembre - Hora - Estadio" },
+			{ "date": "25 de Noviembre - Hora - Estadio" },
+			{ "date": "29 de Noviembre - Hora - Estadio" },
+			{ "date": "29 de Noviembre - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -61,12 +61,12 @@
 			{ "pos": "B4" }
 		],
 		"info": [
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" }
+			{ "date": "21 de Noviembre - Hora - Estadio" },
+			{ "date": "21 de Noviembre - Hora - Estadio" },
+			{ "date": "25 de Noviembre - Hora - Estadio" },
+			{ "date": "25 de Noviembre - Hora - Estadio" },
+			{ "date": "29 de Noviembre - Hora - Estadio" },
+			{ "date": "29 de Noviembre - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -100,12 +100,12 @@
 			{ "pos": "C4" }
 		],
 		"info": [
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" }
+			{ "date": "22 de Noviembre - 16:00 - Lusail" },
+			{ "date": "22 de Noviembre - Hora - Estadio" },
+			{ "date": "26 de Noviembre - 10:00 - Education City" },
+			{ "date": "26 de Noviembre - Hora - Estadio" },
+			{ "date": "30 de Noviembre - Hora - Estadio" },
+			{ "date": "30 de Noviembre - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -139,12 +139,12 @@
 			{ "pos": "D4" }
 		],
 		"info": [
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" }
+			{ "date": "22 de Noviembre - Hora - Estadio" },
+			{ "date": "22 de Noviembre - Hora - Estadio" },
+			{ "date": "26 de Noviembre - Hora - Estadio" },
+			{ "date": "26 de Noviembre - Hora - Estadio" },
+			{ "date": "30 de Noviembre - Hora - Estadio" },
+			{ "date": "30 de Noviembre - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -178,12 +178,12 @@
 			{ "pos": "E4" }
 		],
 		"info": [
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" }
+			{ "date": "23 de Noviembre - Hora - Estadio" },
+			{ "date": "23 de Noviembre - Hora - Estadio" },
+			{ "date": "27 de Noviembre - Hora - Estadio" },
+			{ "date": "27 de Noviembre - Hora - Estadio" },
+			{ "date": "1 de Diciembre - Hora - Estadio" },
+			{ "date": "1 de Diciembre - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -217,12 +217,12 @@
 			{ "pos": "F4" }
 		],
 		"info": [
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" }
+			{ "date": "23 de Noviembre - Hora - Estadio" },
+			{ "date": "23 de Noviembre - Hora - Estadio" },
+			{ "date": "27 de Noviembre - Hora - Estadio" },
+			{ "date": "27 de Noviembre - Hora - Estadio" },
+			{ "date": "1 de Diciembre - Hora - Estadio" },
+			{ "date": "1 de Diciembre - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -256,12 +256,12 @@
 			{ "pos": "G4" }
 		],
 		"info": [
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" }
+			{ "date": "24 de Noviembre - Hora - Estadio" },
+			{ "date": "24 de Noviembre - Hora - Estadio" },
+			{ "date": "28 de Noviembre - Hora - Estadio" },
+			{ "date": "28 de Noviembre - Hora - Estadio" },
+			{ "date": "2 de Diciembre - Hora - Estadio" },
+			{ "date": "2 de Diciembre - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
@@ -295,12 +295,12 @@
 			{ "pos": "H4" }
 		],
 		"info": [
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" },
-			{ "date": "Dia - Hora - Estadio" }
+			{ "date": "24 de Noviembre - Hora - Estadio" },
+			{ "date": "24 de Noviembre - Hora - Estadio" },
+			{ "date": "28 de Noviembre - Hora - Estadio" },
+			{ "date": "28 de Noviembre - Hora - Estadio" },
+			{ "date": "2 de Diciembre - Hora - Estadio" },
+			{ "date": "2 de Diciembre - Hora - Estadio" }
 		],
 		"scores": [
 			{ "score": ["0", "0"] },
