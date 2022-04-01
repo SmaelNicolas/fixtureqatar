@@ -39,14 +39,16 @@ const FormatContainer = styled.div`
 const Team1 = styled(Team)`
 	grid-area: team1;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	align-items: center;
+	padding-left: 15px;
 `;
 const Team2 = styled(Team)`
 	grid-area: team2;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	align-items: center;
+	padding-right: 15px;
 `;
 const Score1 = styled(Score)`
 	grid-area: score1;
