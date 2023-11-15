@@ -21,7 +21,7 @@ const countDown = (date) => {
 
 export const countDownTimer = () => {
 	let d = 21;
-	let m = "nov";
+	let m = 10;
 	let y = 2022;
 
 	let date = `${d} ${m} ${y}`;
